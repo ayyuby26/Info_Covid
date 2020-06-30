@@ -199,8 +199,9 @@ class _MainPageState extends State<MainPage> {
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
             Container(
-                margin: EdgeInsets.all(20),
-                height: MediaQuery.of(context).size.height - 410,
+                margin:
+                    EdgeInsets.only(top: 20, left: 20, right: 20, bottom: 10),
+                height: MediaQuery.of(context).size.height - 425,
                 padding: EdgeInsets.all(0),
                 child: apiProvinsi == null
                     ? Center(
@@ -208,7 +209,7 @@ class _MainPageState extends State<MainPage> {
                       )
                     : listview(context)),
             Container(
-              margin: EdgeInsets.all(10),
+              padding: EdgeInsets.all(10),
               child: Text(
                 "Data from kawalcorona.com, App By Ayyuby",
                 style: TextStyle(
