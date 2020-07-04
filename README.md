@@ -1,16 +1,12 @@
-# covid_app
+# Info Covid
 
-A new Flutter project.
+Aplikasi untuk memberitahu informasi perkembangan virus Covid di Indonesia, dengan data yang didapat dari kawalcorona.com
 
-## Getting Started
+## Link Download
+- [covid_app.apk](https://github.com/ayyuby26/Info_Covid/raw/master/Info%20Covid.apk) 16.3MB
+- [app-arm64-v8a-release.apk](https://github.com/ayyuby26/Info_Covid/raw/master/app-arm64-v8a-release.apk) 5.86MB
+- [app-armeabi-v7a-release.apk](https://github.com/ayyuby26/Info_Covid/raw/master/app-armeabi-v7a-release.apk) 5.57MB
+- [app-x86_64-release.apk](https://github.com/ayyuby26/Info_Covid/raw/master/app-x86_64-release.apk) 6.05MB
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# screenshot
+![covid_app](https://user-images.githubusercontent.com/18584572/86500251-085b7680-bdba-11ea-901c-d55b55a92e14.jpg)
