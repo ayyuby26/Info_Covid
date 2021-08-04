@@ -9,4 +9,5 @@ Aplikasi untuk memberitahu informasi perkembangan virus Covid di Indonesia, deng
 - [app-x86_64-release.apk](https://github.com/ayyuby26/Info_Covid/raw/master/app-x86_64-release.apk) 6.05MB
 
 # screenshot
-![covid_app](https://user-images.githubusercontent.com/18584572/86500251-085b7680-bdba-11ea-901c-d55b55a92e14.jpg)
+
+<img src="https://user-images.githubusercontent.com/18584572/86500251-085b7680-bdba-11ea-901c-d55b55a92e14.jpg" width="300"  /> 
