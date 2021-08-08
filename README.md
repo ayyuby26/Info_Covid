@@ -1,16 +1,11 @@
-# info_covid
+# Info Covid
 
-A new Flutter project.
+Aplikasi untuk memberitahu informasi perkembangan virus Covid di Indonesia, dengan data yang didapat dari kawalcorona.com
 
-## Getting Started
+### info: 
+- Get State Management
+- GetX Pattern (by Kauê)
 
-This project is a starting point for a Flutter application.
+# screenshot
+<img src="https://user-images.githubusercontent.com/18584572/128621692-d3d20603-95df-4db9-a3ed-420e7555eac6.jpg" width="300"/> <img src="https://user-images.githubusercontent.com/18584572/128621676-ec42a37a-a778-4662-81f6-8fe5e49ec82f.jpg" width="300"/> 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
