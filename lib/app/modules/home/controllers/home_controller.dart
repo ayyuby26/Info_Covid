@@ -7,7 +7,6 @@ import 'package:intl/date_symbol_data_local.dart';
 import 'package:intl/intl.dart';
 
 class HomeController extends GetxController {
-  var isLoading = true.obs;
   var nationalData = NationalModel().obs;
   var provinceDataList = <ProvinceModel>[].obs;
 
@@ -27,7 +26,6 @@ class HomeController extends GetxController {
     initializeDateFormatting();
     provinceDataList(await ProvinceProvider().fetch());
     nationalData(await NationalProvider().getNational());
-    isLoading(false);
     super.onInit();
   }
 
