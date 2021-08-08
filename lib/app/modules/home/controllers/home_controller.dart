@@ -20,7 +20,6 @@ class HomeController extends GetxController {
     return DateFormat('EEEE, d MMMM y', "id").format(date);
   }
 
-  final count = 0.obs;
   @override
   void onInit() async {
     initializeDateFormatting();
@@ -36,5 +35,4 @@ class HomeController extends GetxController {
 
   @override
   void onClose() {}
-  void increment() => count.value++;
 }
