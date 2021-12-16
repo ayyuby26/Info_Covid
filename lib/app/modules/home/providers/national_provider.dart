@@ -1,5 +1,5 @@
+import 'package:covid_app/app/core/values/base_url.dart';
 import 'package:get/get.dart';
-import 'package:info_covid/app/core/values/strings.dart';
 import '../national_model.dart';
 
 class NationalProvider extends GetConnect {
