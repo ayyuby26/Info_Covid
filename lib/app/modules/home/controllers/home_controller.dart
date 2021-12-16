@@ -1,10 +1,11 @@
+import 'package:covid_app/app/modules/home/providers/national_provider.dart';
+import 'package:covid_app/app/modules/home/providers/province_provider.dart';
 import 'package:get/get.dart';
-import 'package:info_covid/app/modules/home/national_model.dart';
-import 'package:info_covid/app/modules/home/providers/national_provider.dart';
-import 'package:info_covid/app/modules/home/providers/province_provider.dart';
-import 'package:info_covid/app/modules/home/province_model.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'package:intl/intl.dart';
+
+import '../national_model.dart';
+import '../province_model.dart';
 
 class HomeController extends GetxController {
   var nationalData = NationalModel().obs;

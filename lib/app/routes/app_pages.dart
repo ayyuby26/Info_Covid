@@ -1,7 +1,6 @@
+import 'package:covid_app/app/modules/home/bindings/home_binding.dart';
+import 'package:covid_app/app/modules/home/views/home_view.dart';
 import 'package:get/get.dart';
-
-import 'package:info_covid/app/modules/home/bindings/home_binding.dart';
-import 'package:info_covid/app/modules/home/views/home_view.dart';
 
 part 'app_routes.dart';
 

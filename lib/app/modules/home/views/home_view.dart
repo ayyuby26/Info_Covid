@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:shimmer/shimmer.dart';
 import 'package:flutter/material.dart';
+import 'package:shimmer/shimmer.dart';
 import '../controllers/home_controller.dart';
 import '../province_model.dart';
 
