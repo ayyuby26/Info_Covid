@@ -1,0 +1,57 @@
+{
+  "statusCode": 200,
+  "message": "List Data Maintenance Ditemukan",
+  "error": false,
+  "data": [
+    {
+      "id": 5206,
+      "checkIn": "x",
+      "checkOut": "x",
+      "status": "null",
+      // photoProof (photo orangnya)
+      // jobId
+      "jobCode": "null",
+      // toolId
+      // toolDescription
+      // refBlocks
+      // resultBlocks
+      // employeeId
+      "employeeNik": "20000100100207",
+      "employeeName": "MESNO",
+      "deviceId": "3517A528E1B6677C",
+      "createdAt": "2022-05-27T09:49:36.000Z",
+      "updatedAt": "2022-05-27T09:49:36.000Z",
+      "syncAt": "null",
+      "transactionId": "20140601700006-3517A528E1B6677C-2022-05-27 16:49:36",
+      "userNik": "8899",
+      // type
+      "verifiedBy": "null",
+      "verifiedAt": "null",
+
+
+      ///ABSENSI
+      "date": "2022-05-27",
+      // attendanceId
+      "attendanceCode": "MK",
+      "description": "",
+      "warningLetter": "null",
+
+      //----------------------
+
+      "referenceId": 1,
+      "companyCode": "A06",
+      "location": "21",
+      "afdelingCode": "01",
+      "presensiType": "x",
+      "contractNo": null,
+      "countEmployee": null,
+      "mekanisasiId": 1,
+      "mekanisasiDescription": "null",
+      "photo": null,
+      "isUpload": false,
+      "createdBy": "MESNO",
+      "updatedBy": "MESNO",
+      "deletedAt": "null"
+    }
+  ]
+}
