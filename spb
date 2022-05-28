@@ -1,0 +1,106 @@
+{
+  "statusCode": 200,
+  "message": "List Data Maintenance Ditemukan",
+  "error": false,
+  "data": [
+    {
+      "id": 197,
+    //   spbNumberId
+    // vehicleId
+    "vehicleCode": "null",
+    // driverId
+    "driverName": "JANI",
+    // cargoStaffs
+    // cargos
+    // cargoMultis
+    // destinationId
+    // destinationName
+    "date": "2022-05-25",
+
+      "companyCode": "A06",
+      "location": "21",
+      "afdelingCode": "01",
+      "referenceId": "A06210120141101700003220525002",
+      "type": "Single",
+      "vehicleName": null,
+      "driverPremiLangsung": true,
+      "vehicleRegistrationNo": "DT61",
+      "driverNik": "20140401700064",
+      "sumBrondolan": 23,
+      "tujuanSpb": "SAM - PKS Senamanenek 1",
+      "sumJanjang": 47,
+      "sourceFile": null,
+      "dateSyncWb": null,
+      "dateSyncAssistant": "2022-05-26T10:57:13.000Z",
+      "userNik": "20141101700003",
+      "deviceId": "3517A528E1B6677C",
+      "createdBy": null,
+      "updatedBy": null,
+      "createdAt": "2022-05-25T10:48:41.000Z",
+      "updatedAt": "2022-05-26T10:57:13.655Z",
+      "deletedAt": null,
+      "spbDetail": [
+        {
+          "id": 2417,
+          "spbId": 197,
+          "blockCode": "E20",
+          "tphCode": "TPH01",
+          "qtyJanjang": 13,
+          "qtyBrondolan": 10,
+          "objectCounting": 12,
+          "isUpload": false,
+          "createdBy": null,
+          "updatedBy": null,
+          "createdAt": "2022-05-26T10:56:11.708Z",
+          "updatedAt": "2022-05-26T10:56:11.708Z",
+          "deletedAt": null
+        },
+        {
+          "id": 2418,
+          "spbId": 197,
+          "blockCode": "E20",
+          "tphCode": "TPH01",
+          "qtyJanjang": 16,
+          "qtyBrondolan": 8,
+          "objectCounting": 0,
+          "isUpload": false,
+          "createdBy": null,
+          "updatedBy": null,
+          "createdAt": "2022-05-26T10:56:11.714Z",
+          "updatedAt": "2022-05-26T10:56:11.714Z",
+          "deletedAt": null
+        },
+        {
+          "id": 2419,
+          "spbId": 197,
+          "blockCode": "E20",
+          "tphCode": "TPH01",
+          "qtyJanjang": 12,
+          "qtyBrondolan": 0,
+          "objectCounting": 0,
+          "isUpload": false,
+          "createdBy": null,
+          "updatedBy": null,
+          "createdAt": "2022-05-26T10:56:11.720Z",
+          "updatedAt": "2022-05-26T10:56:11.720Z",
+          "deletedAt": null
+        },
+        {
+          "id": 2420,
+          "spbId": 197,
+          "blockCode": "E20",
+          "tphCode": "TPH01",
+          "qtyJanjang": 6,
+          "qtyBrondolan": 5,
+          "objectCounting": 0,
+          "isUpload": false,
+          "createdBy": null,
+          "updatedBy": null,
+          "createdAt": "2022-05-26T10:56:11.727Z",
+          "updatedAt": "2022-05-26T10:56:11.727Z",
+          "deletedAt": null
+        }
+      ]
+    }
+  ]
+}
